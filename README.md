@@ -1,11 +1,1 @@
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>Calculator</title>
-  </head>
-  <body>
-    <div id="root"></div>
- 
-  </body>
-</html>
